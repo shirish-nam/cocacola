@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button"
 import Header from './components/header'
 import ProductCard from './components/product-card'
 import ContactForm from './components/contact-form'
+import Script from 'next/script'
 
 export default function Home() {
   return (
@@ -22,7 +23,7 @@ export default function Home() {
           <div className="absolute inset-0 bg-black bg-opacity-50" />
           <div className="relative z-10 text-center text-white">
             <h1 className="text-6xl font-bold mb-4">Refresh the World</h1>
-            <p className="text-xl mb-8">Enjoy Coca-Cola's iconic taste</p>
+            <p className="text-xl mb-8">Enjoy Coca-Cola&apos;s iconic taste</p>
             <Button size="lg">Explore Our Products</Button>
           </div>
         </section>
@@ -100,6 +101,7 @@ export default function Home() {
           </div>
         </div>
       </footer>
+      <Script type="module" src="https://widget.dev.aichat.site/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm5m8es4o00nl8ob1i4gdrbdm" data-org-id="organization-test-953841a0-4323-4eab-8642-8a392512983e"></Script>
     </div>
   )
 }
