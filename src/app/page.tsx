@@ -101,7 +101,9 @@ export default function Home() {
           </div>
         </div>
       </footer>
-      <Script type="module" src="https://widget.dev.aichat.site/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm5q7cx0h00al1zery9bhydxk" data-org-id="organization-test-abeb26d7-6a69-4877-92f3-cf14c348e0d0"></Script>
+     
+     
+      <Script type="module" src="https://widget.dev.aichat.site/dist/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm5q7cx0h00al1zery9bhydxk" data-org-id="organization-test-abeb26d7-6a69-4877-92f3-cf14c348e0d0"></Script>
     </div>
   )
 }
