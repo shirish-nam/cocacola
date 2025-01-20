@@ -57,7 +57,7 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-4xl font-bold text-center mb-8">Our Story</h2>
             <p className="text-lg text-center max-w-3xl mx-auto">
-              Since 1886, Coca-Cola has been refreshing the world. What began as a single product sold in Atlanta, Georgia, is now a global brand with thousands of beverages consumed by people in more than 200 countries.
+              Since 1886, Coca-Cola has been refreshing the world. What began as a single product sold in Atlanta, Georgia, is now a global brand with thousands of beverages consumed by people in more than 2000 countries.
             </p>
           </div>
         </section>
