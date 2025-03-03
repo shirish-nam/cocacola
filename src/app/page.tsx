@@ -108,8 +108,9 @@ export default function Home() {
     {/*<Script type="module" src="https://widget.aichat.com/dist/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm5xlaffm003lv0jjtavnewn6" data-org-id="organization-live-462e6b2f-cfe8-49bd-8441-54de4781bdea"></Script>*/}
     {/*stag}*/}
    {/* <Script type="module" src="https://widget.staging.aichat.site/dist/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm6j08bkg000213uxb3zc14pa" data-org-id="organization-test-4f270bdd-6a86-43d7-a61c-cf8ed0d03520"></Script>*/}
-  {/*klcc*/}
-   <Script type="module" src="https://widget.dev.aichat.site/dist/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm65ttfej02nxs3oh9uxsumxy" data-org-id="organization-test-953841a0-4323-4eab-8642-8a392512983e"></Script>
+  {/*klcc
+   <Script type="module" src="https://widget.dev.aichat.site/dist/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm65ttfej02nxs3oh9uxsumxy" data-org-id="organization-test-953841a0-4323-4eab-8642-8a392512983e"></Script>*/}
+    <Script type="module" src="https://widget.dev.aichat.site/dist/ai-chat-widget.js" id="ai-chat-widget" data-api-key="cm4i7p2pm011bdwtopbrrac0i" data-org-id="organization-test-953841a0-4323-4eab-8642-8a392512983e"></Script>
     </div>
 
   )
